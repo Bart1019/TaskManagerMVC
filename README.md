@@ -10,3 +10,5 @@ Project of simple task manager in which you can:
 - see details of a particular task,
 - delete task,
 - tick task as done.
+
+## Project based on YT channel "Jak zostać programistą .Net"
